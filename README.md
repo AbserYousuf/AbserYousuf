@@ -61,8 +61,8 @@
 
 ### 📊 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AbserYousuf&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbserYousuf&layout=compact&theme=radical&hide_border=true" width="49%"/>
+<img align="left" src="https://github-stats-extended.vercel.app/api?username=AbserYousuf&show_icons=true&theme=radical&hide_border=true" width="49%"/>
+<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbserYousuf&layout=compact&theme=radical&hide_border=true" width="49%"/>
 
 <br clear="both"/>
 
@@ -74,7 +74,7 @@
 
 ### 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbserYousuf&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=AbserYousuf&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
 
 <br/>
 
