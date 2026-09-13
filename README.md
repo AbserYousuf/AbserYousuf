@@ -74,7 +74,7 @@
 
 ### 🏆 Achievements
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=AbserYousuf&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
+<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=AbserYousuf&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
 
 <br/>
 
