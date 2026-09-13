@@ -68,7 +68,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbserYousuf&theme=radical&hide_border=true" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbserYousuf&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://ghchart.rshah.org/2E7DFF/AbserYousuf" width="100%" alt="AbserYousuf's contribution graph"/>
 
 <br/>
 
