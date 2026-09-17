@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-<img src="https://github.com/user-attachments/assets/843a342d-bd83-4576-8fd8-68f223c8183b"   alt="avatar-crossed" align="right" width="200"/>
+<img src="https://github.com/user-attachments/assets/843a342d-bd83-4576-8fd8-68f223c8183b"   alt="avatar-crossed" align="right" width="300"/>
 
 - 💻 I build full stack web applications and I'm transitioning into **cybersecurity**
 - 🛡️ Currently exploring **Ethical Hacking**, **Linux & Networking**, and **Application Penetration Testing**
